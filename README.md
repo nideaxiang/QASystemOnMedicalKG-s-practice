@@ -1,0 +1,2 @@
+# QASystemOnMedicalKG-s-practice
+我对经典的QASystemOnMedicalKG项目进行复现，并对每一行都进行了说明
